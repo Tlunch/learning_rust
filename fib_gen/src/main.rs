@@ -1,7 +1,7 @@
 use std::io;
 use std::process;
 use num_bigint::BigUint;
-use num_traits::{One};
+use num_traits::One;
 
 fn main() {
     let mut n = String::new();
